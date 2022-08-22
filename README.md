@@ -8,6 +8,6 @@ My name is Naomi Hinton, thank you for visiting my profile.
 - ♟ Planned Projects: Teacher Training Institute User Login Portal: HTML,CSS, Javascript, +; Portfolio Website: HTML,CSS, JS, Web Development & Developer Tools; More to be announced! 
 - 👯 At the moment, I'm not seeking to collaborate on a project yet, but I will be over the next few months.
 
-Goal: 🏅 Become a Full Stack Web Devleloper 
+Goal: 🏅 Become a Full Stack Engineer
 
 
